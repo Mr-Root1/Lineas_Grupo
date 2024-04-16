@@ -1,2 +1,2 @@
-from grupos.entities import Grupo  # noqa
-from grupos.reader import lee_grupo, lee_todas, todas  # noqa
+from mananeras.entities import Mananera, Participacion  # noqa
+from mananeras.reader import lee_mananera, lee_todas, todas  # noqa
